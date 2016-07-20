@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        
+        <title>Bootstrap Strong Password</title>
+        
+        <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet"/>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>TESTE DE FORÇA DE SENHA</h1>
+                        <h2>Plugin jQuery + Boostrap para verificação de senha.</h2>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="container">
+            <h3>Teste sua senha</h3>
+            <form>
+                <div class="row">
+                    <div class="col-md-3">
+                        <label>
+                            Senha
+                            <input type="password" class="form-control pass" data-showpass="true" data-placement="top" />
+                        </label>
+                        
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul>
+                            <li>Válida: Mínimo de oito digitos com letras e números</li>
+                            <li class="text-warning">Fraca: Mínimo de oito digitos com letras e números</li>
+                            <li class="text-info">Boa: Mínino de oito digitos com letras minúsculas e maiúsculas e números ou caracter especial</li>
+                            <li class="text-success">Forte: Mínimo de oito digitos com letras maiúculas, minúsculas, caracter especial e números</li>
+                        </ul>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+        <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap-strong-password.js"></script>
+        <script type="text/javascript">
+            $('.pass').bsStrongPass();
+        </script>
+    </body>
+</html>

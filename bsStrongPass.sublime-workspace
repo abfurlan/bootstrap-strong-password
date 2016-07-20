@@ -1,0 +1,258 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"border-co",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1799,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/bootstrap-strong-password.js",
+			"settings":
+			{
+				"buffer_size": 6372,
+				"line_ending": "Windows",
+				"name": "(function ($) {"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/angular-crud/.gitignore",
+		"/C/wamp/www/rwa/index2.html",
+		"/C/wamp/www/rwa/index.html",
+		"/C/wamp/www/rwa/css/agency.css",
+		"/C/wamp/www/rwa/js/agency.js",
+		"/C/wamp/www/rwa/js/contact_me.js",
+		"/C/wamp/www/rwa/mail/contact_me.php",
+		"/C/Users/afurlan/Documents/Android/devdactic-auth/www/js/app.js",
+		"/C/Users/afurlan/Documents/Android/Truco/config.xml",
+		"/C/Users/afurlan/Documents/Android/Truco/www/index.html",
+		"/C/Users/afurlan/Documents/Android/Truco/www/js/app.js",
+		"/C/Users/afurlan/Documents/Android/Truco/www/js/controllers.js",
+		"/C/Users/afurlan/Documents/Android/Truco/www/templates/tab-dash.html",
+		"/C/Users/afurlan/Documents/Android/truco/www/css/style.css",
+		"/C/Users/afurlan/Documents/Android/truco/www/js/app.js",
+		"/C/Users/afurlan/Documents/Android/truco/www/js/controllers.js",
+		"/C/Users/afurlan/Documents/Android/truco/www/templates/login.html",
+		"/C/Users/afurlan/Documents/Android/truco/www/templates/menu.html",
+		"/C/Users/afurlan/Documents/Java/Calculadora.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Not",
+			"dropdown-me",
+			"opa",
+			"rgba",
+			"background-im",
+			"#fec503",
+			"hove",
+			"#fed136"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#F44336"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1745,
+								1745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/bootstrap-strong-password.js",
+					"settings":
+					{
+						"buffer_size": 6372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								55
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(function ($) {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
