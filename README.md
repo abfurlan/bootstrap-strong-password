@@ -12,15 +12,8 @@
 
 <h2>Exemplo</h2>
 ```html
-<pre>
-  
-  <code>
-    
     <input type="password" class="form-control pass" data-showpass="true" data-placement="top" />
-    
+  
     $('.pass').bsStrongPass();
-    
-  </code>
-</pre>
 ```
 <a href="http://andti.com.br/bootstrap-strong-password/" target="_blank">Página de exemplo</a>
