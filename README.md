@@ -12,9 +12,10 @@
 
 <h2>Exemplo</h2>
 <pre>
+  <input type="password" class="form-control pass" data-showpass="true" data-placement="top" />
   <code>
     
-    <input type="password" class="form-control pass" data-showpass="true" data-placement="top" />
+    
     $('.pass').bsStrongPass();
     
   </code>
